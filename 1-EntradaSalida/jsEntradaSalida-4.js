@@ -4,6 +4,8 @@
 */
 function mostrar()
 {
+    var informacion
+	"PROMPT" = document.getElementById("informacion");
 	
 }
 
